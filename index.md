@@ -1,6 +1,6 @@
 
 ## Presentaciones
 
-- [Camaras de eco](/sicss/echo-chambers.html)
-- [encuestas](/sicss/analisis-encuestas.html)
+- [Camaras de eco](/echo-chambers.html)
+- [encuestas](/analisis-encuestas.html)
 
