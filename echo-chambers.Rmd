@@ -145,7 +145,7 @@ knitr::include_graphics("ima/trump.png")
   
   - Mayor polarización aumenta la participación. 
   
-  - Polarización muy alta puede causar dificultades para governar
+  - Polarización muy alta puede causar dificultades para gobernarber
 
 --
 
